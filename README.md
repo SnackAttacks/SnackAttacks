@@ -7,47 +7,47 @@ Welcome to my GitHub profile! I'm Kathryn Rasmussen, a dedicated professional wi
 ### Freelance Web Developer
 *2018 - Present*
 
-🌐 Designed accessible, responsive websites using industry best practices, resulting in a remarkable 55% increase in click-through rates.
+Designed accessible, responsive websites using industry best practices, resulting in a remarkable 55% increase in click-through rates.
 
-🍽️ Created promotional and marketing materials for numerous restaurants, aligned with customer specifications, resulting in significant increases in foot traffic.
+Created promotional and marketing materials for numerous restaurants, aligned with customer specifications, resulting in significant increases in foot traffic.
 
-💼 Achieved a 25% increase in average check size through enticing visuals, streamlined ordering, and reduced wait times, significantly enhancing overall customer satisfaction.
+Achieved a 25% increase in average check size through enticing visuals, streamlined ordering, and reduced wait times, significantly enhancing overall customer satisfaction.
 
 ### Assistant Manager
 *2018 - 2023*
 
-🍽️ Managed challenging situations and difficult customers professionally and empathetically.
+Managed challenging situations and difficult customers professionally and empathetically.
 
-🚀 Thrived in a fast-paced environment, skillfully multitasking and making swift decisions.
+Thrived in a fast-paced environment, skillfully multitasking and making swift decisions.
 
-🌟 Developed strong customer connections, enhancing experiences and motivating the team.
+Developed strong customer connections, enhancing experiences and motivating the team.
 
-📈 Maintained productivity in a fast-paced setting, expertly balancing various tasks.
+Maintained productivity in a fast-paced setting, expertly balancing various tasks.
 
 ### Data Entry Intern
 *2020*
 
-📊 Managed data spreadsheets.
+Managed data spreadsheets.
 
-📈 Analyzed data for trends regarding math sentiment.
+Analyzed data for trends regarding math sentiment.
 
 ## Projects
 
 ### Canopy.io Pentesting Tool - Project Lead
 
-🔒 Spearheaded the development of an integrated umbrella tool for scanning, attacking, and reporting to enhance security processes.
+Spearheaded the development of an integrated umbrella tool for scanning, attacking, and reporting to enhance security processes.
 
-📡 Integrated Pyshark, Nmap, and the Metasploit framework into Canopy.io.
+Integrated Pyshark, Nmap, and the Metasploit framework into Canopy.io.
 
-📊 Designed and implemented a reporting function within the tool.
+Designed and implemented a reporting function within the tool.
 
-🖥️ Developed a user-friendly Python Tkinter GUI for Canopy.io.
+Developed a user-friendly Python Tkinter GUI for Canopy.io.
 
 ### Oracle Developer Data Management - Project Lead
 
-📈 Conducted in-depth data analysis to identify significant trends in hospital patient data.
+Conducted in-depth data analysis to identify significant trends in hospital patient data.
 
-📡 Skillfully employed control files, executed Linux commands, and established server connections to successfully achieve project objectives.
+Skillfully employed control files, executed Linux commands, and established server connections to successfully achieve project objectives.
 
 ## Skills & Expertise
 
